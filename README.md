@@ -16,17 +16,17 @@ Sistema de gestión empresarial completo con módulos de ventas, compras, invent
 
 ## Capturas de pantalla
 
-- [Login (con JWT)](image.png)
-- [Dashboard (KPIs, ingresos diarios, stock bajo)](image-1.png)
-- [Inventario (movimientos de stock)](image-2.png)
-- [Productos (CRUD, control de stock)](image-3.png)
-- [Ventas (registro de ventas con detalle de productos)](image-5.png)
-- [Compras (registro de compras por proveedor)](image-4.png)
-- [Usuarios (gestión de usuarios y roles)](image-6.png)
-- [Clientes ](image-7.png)
-- [Proveedores](image-8.png)
-- [- Reportes (ventas por día, productos top, clientes top)](image-9.png)[](image-10.png)
-- [Alertas (notificaciones de stock bajo)](image-11.png)
+- [Login (con JWT)](Readme/image.png)
+- [Dashboard (KPIs, ingresos diarios, stock bajo)](Readme/image-1.png)
+- [Inventario (movimientos de stock)](Readme/image-2.png)
+- [Productos (CRUD, control de stock)](Readme/image-3.png)
+- [Ventas (registro de ventas con detalle de productos)](Readme/image-5.png)
+- [Compras (registro de compras por proveedor)](Readme/image-4.png)
+- [Usuarios (gestión de usuarios y roles)](Readme/image-6.png)
+- [Clientes ](Readme/image-7.png)
+- [Proveedores](Readme/image-8.png)
+- [- Reportes (ventas por día, productos top, clientes top)](Readme/image-9.png)[](Readme/image-10.png)
+- [Alertas (notificaciones de stock bajo)](Readme/image-11.png)
 -
 
 ## Tecnologías
