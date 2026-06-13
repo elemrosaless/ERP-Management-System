@@ -1,0 +1,25 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Variables de entorno
+.env
+
+# Node / React
+node_modules/
+dist/
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Power BI temporales
+*.tmp
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
